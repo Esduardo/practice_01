@@ -12,7 +12,7 @@ public class Main {
                 "Veronica",
                 'F',
                 "Tuxtla Gutierrez",
-                LocalDate.of(2003, 12,4));
+                LocalDate.of(2003, 12,4)); /*sffsjhuhf*/
 
         Estudiante esduardo = new Estudiante(221214,
                 "Esduardo",
